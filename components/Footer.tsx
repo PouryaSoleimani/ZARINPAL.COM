@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Footer = () => {
     return (
         <div>
@@ -60,12 +58,12 @@ const Footer = () => {
 
                         <a className="footer--social__link"> <img alt="aparat" className="footer--social__icon" src="Images/Social Media Icons/aparat.svg" /></a>
                     </div>
-                    <br/>
-                        <img className="footer--social__elogo" src="Images/Enamad.png" />
-                        </div>
-                    </section>
+                    <br />
+                    <img className="footer--social__elogo" src="Images/Enamad.png" />
                 </div>
-                )
+            </section>
+        </div>
+    )
 }
 
-                export default Footer
+export default Footer

@@ -3,11 +3,11 @@ const Options = () => {
         <div>
             <div className="options-container">
                 <div className="option--item item3">
-                    <h3 className="option--item__header">
+                    <span className="option--item__header">
                         <img className="option--item__img" src="./Images/Verified--grid__img.svg" />
                         ضمانتِ
                         پرداخت
-                    </h3>
+                    </span>
                     <p className="option--header__text">درگاه پرداخت زرین‌پال، تجربه‌ی پرداخت اینترنتی آسان، سریع و امن را به
                         مشتریان کسب و کارهای آنلاین هدیه می‌دهد.</p>
                 </div>

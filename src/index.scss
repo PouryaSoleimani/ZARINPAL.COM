@@ -1043,14 +1043,16 @@ body {
 /**************** FOOTER **************/
 
 .footer-container {
+	width:100%;
 	display: flex;
-	justify-content: start;
-	align-items: start;
-	gap: 1.5rem;
+	justify-content: center;
+	align-items: flex-start;
+	gap: 2.5rem;
 	letter-spacing: -0.5px;
 	margin: 30px 50px;
 	padding: 10px 0 10px 0;
 	border-radius: 35px;
+	text-align : justify;
 
 	@media (max-width: $medium) {
 		flex-wrap: wrap;

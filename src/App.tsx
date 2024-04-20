@@ -9,6 +9,8 @@ import ZarinPlus from './../components/ZarinPlus';
 import PaymentStandards from './../components/PaymentStandards';
 import Options from './../components/Options';
 import JoinBox from './../components/JoinBox';
+import Support from './../components/Support';
+import Footer from './../components/Footer';
 
 function App() {
 
@@ -24,6 +26,8 @@ function App() {
       <PaymentStandards />
       <Options/>
       <JoinBox/>
+      <Support/>
+      <Footer/>
     </>
   )
 }
