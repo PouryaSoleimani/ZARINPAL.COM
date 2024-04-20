@@ -837,13 +837,19 @@ body {
 	margin: 70px 30px;
 	border-radius: 20px;
 	padding: 10px 0px 0px 25px;
+	text-align: center;
 }
 .paymentStandards--header {
 	font-family: iranyekanHeavy;
+	width:100%;
+	display: flex ;
+	justify-content:center;
+	align-items:center;
 	font-size: 30px;
 	line-height: 40px;
 	text-align: right;
 	letter-spacing: -0.5px;
+	text-align : center;
 
 	@media (max-width: $medium) {
 		font-size: 22px;
@@ -854,10 +860,10 @@ body {
 	font-size: 16px;
 	line-height: 40px;
 	text-align: right;
-	letter-spacing: -0.5px;
 	color: #303030;
 	margin-top: 28px;
 	padding-top: 20px;
+	text-align:center;
 	word-spacing: 1px;
 }
 
@@ -870,8 +876,8 @@ body {
 	display: grid;
 	grid-template-columns: (2, 1fr);
 	grid-template-rows: (2, 1fr);
-	justify-content: end;
-	align-items: right;
+	justify-content: center;
+	align-items: center;
 	grid-gap: 3rem;
 	grid-row-gap: 2rem;
 

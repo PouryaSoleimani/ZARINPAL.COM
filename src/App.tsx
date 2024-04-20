@@ -7,6 +7,7 @@ import ZarinCard from './../components/ZarinCard';
 import Payout from './../components/Payout';
 import ZarinPlus from './../components/ZarinPlus';
 import PaymentStandards from './../components/PaymentStandards';
+import Options from './../components/Options';
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
       <Payout />
       <ZarinPlus />
       <PaymentStandards />
+      <Options/>
     </>
   )
 }
