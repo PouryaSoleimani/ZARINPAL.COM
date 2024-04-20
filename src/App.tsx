@@ -2,6 +2,7 @@
 import Header from './../components/Header';
 import Parallax from './../components/Parallax';
 import Payment from './../components/Payment';
+import Social from './../components/Social';
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Parallax />
       <Payment/>
+      <Social/>
     </>
   )
 }
