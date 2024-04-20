@@ -1,6 +1,10 @@
-# THIS IS A SMALL PROJECT , INSPIRED BY ZARINPAL.COM
+#### THIS IS A SMALL PROJECT , INSPIRED BY ZARINPAL.COM
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-
+##### You can See The [DEMO](zarinpal-com.vercel.app ) here , Please Consider Using a VPN . 🤍🙏
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
