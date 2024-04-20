@@ -1,6 +1,4 @@
 //^ PARALLAX
-import React from 'react'
-
 const Parallax = () => {
     return (
         <div>
