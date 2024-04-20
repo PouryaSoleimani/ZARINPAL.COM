@@ -3,6 +3,7 @@ import Header from './../components/Header';
 import Parallax from './../components/Parallax';
 import Payment from './../components/Payment';
 import Social from './../components/Social';
+import ZarinCard from './../components/ZarinCard';
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <Parallax />
       <Payment/>
       <Social/>
+      <ZarinCard/>
     </>
   )
 }
