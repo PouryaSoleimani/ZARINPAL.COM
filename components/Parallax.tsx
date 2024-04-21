@@ -21,14 +21,14 @@ const Parallax = () => {
                             سهم تجارت الکترونیکی در تولید ناخالص ملی و کمک به رشد و
                             توسعه‌ی کسب‌وکارها، نقش سازنده‌‌ای ایفا کند.
                         </p>
-                        <a href="#" className="parallax__signup__bottom">ثبت نام</a>
-                        <a href="#" className="parallax__login__bottom">ورود</a>
+                        <a className="parallax__signup__bottom">ثبت نام</a>
+                        <a className="parallax__login__bottom">ورود</a>
                     </div>
-                    <img src="../images/home.svg" className="parallax__img" />
+                    <img src="/public/home.svg" className="parallax__img" />
                 </div>
                 <div className="parallax-arrow">
-                    <img src="../images/Parallax__bottom--arrow.svg" alt="" className="parallax-arrow__bg" />
-                    <img src="../images/chevron__down.svg" alt="" className="parallax-arrow__chevron" />
+                    <img src="/public/Parallax__bottom--arrow.svg" alt="" className="parallax-arrow__bg" />
+                    <img src="/public/chevron__down.svg" alt="" className="parallax-arrow__chevron" />
                 </div>
             </div>
         </div>

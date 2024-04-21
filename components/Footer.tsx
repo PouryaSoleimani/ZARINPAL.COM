@@ -43,23 +43,14 @@ const Footer = () => {
                 <div className="footer--social">
                     <h4 className="footer--social__header">زرین‌پال در شبکه‌های اجتماعی:</h4>
                     <div className="footer--social__iconwrapper">
-                        <a className="footer--social__link">
-                            <img alt="instagram" className="footer--social__icon"
-                                src="Images/Social Media Icons/instagram.svg" /></a>
-
-                        <a className="footer--social__link">
-                            <img alt="twitter" className="footer--social__icon" src="Images/Social Media Icons/twitter.svg" /></a>
-
-                        <a className="footer--social__link">
-                            <img alt="telegram" className="footer--social__icon"
-                                src="Images/Social Media Icons/telegram.svg" /></a>
-
-                        <a className="footer--social__link"> <img alt="linkedin" className="footer--social__icon" src="Images/Social Media Icons/linkedin.svg" /></a>
-
-                        <a className="footer--social__link"> <img alt="aparat" className="footer--social__icon" src="Images/Social Media Icons/aparat.svg" /></a>
+                        <a className="footer--social__link"><img alt="instagram" className="footer--social__icon" src="/public/instagram.svg" /></a>
+                        <a className="footer--social__link"><img alt="twitter" className="footer--social__icon" src="/public/twitter.svg" /></a>
+                        <a className="footer--social__link"><img alt="telegram" className="footer--social__icon" src="/public/telegram.svg" /></a>
+                        <a className="footer--social__link"><img alt="linkedin" className="footer--social__icon" src="/public/linkedin.svg" /></a>
+                        <a className="footer--social__link"><img alt="aparat" className="footer--social__icon" src="/public/aparat.svg" /></a>
                     </div>
                     <br />
-                    <img className="footer--social__elogo" src="Images/Enamad.png" />
+                    <img className="footer--social__elogo" src="/public/Enamad.png" />
                 </div>
             </section>
         </div>

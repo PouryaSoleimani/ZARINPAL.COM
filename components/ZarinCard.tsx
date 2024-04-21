@@ -2,7 +2,7 @@ const ZarinCard = () => {
     return (
         <div>
             <div className="zarincard--container">
-                <img className="zarincard--img" src="Images/Zarincard--img.svg" />
+                <img className="zarincard--img" src="/public/Zarincard--img.svg" />
                 <div className="zarincard--content">
                     <div className="zarincard--content__header1">زرین‌کارت</div>
 
@@ -20,9 +20,9 @@ const ZarinCard = () => {
 
                     <div className="zarincard--content__btn__wrapper">
                         <button className="zarincard--content__btn">درخواست زرین کارت</button>
-                        <a href="#" className="zarincard--content__link">
+                        <a className="zarincard--content__link">
                             بیش تر بدانید
-                            <img src="Images/arrow-left.svg" className="zarincard--content__arrow" />
+                            <img src="/public/arrow-left.svg" className="zarincard--content__arrow" />
                         </a>
                     </div>
 

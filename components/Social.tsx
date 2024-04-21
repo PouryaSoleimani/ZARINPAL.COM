@@ -2,7 +2,7 @@ const Social = () => {
     return (
         <div>
             <div className="social--container">
-                <img className="social--img" src="Images/Social--img.svg" />
+                <img className="social--img" src="/public/Social--img.svg" />
                 <div className="social--content">
                     <h3 className="social--content__header1">زرین‌لینک</h3>
                     <h4 className="social--content__header2">پرداخت در شبکه‌های اجتماعی</h4>
@@ -13,7 +13,7 @@ const Social = () => {
                     <div className="social--content__btn__wrapper">
                         <button className="social--content__btn">ساخت زرین لینک</button>
                         <a href="#" className="social--content__link">بیش تر بدانید
-                            <img className="social--content__arrow" src="Images/arrow-left.svg" />
+                            <img className="social--content__arrow" src="/public/arrow-left.svg" />
                         </a>
                     </div>
                 </div>
