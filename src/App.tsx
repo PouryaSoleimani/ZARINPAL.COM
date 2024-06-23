@@ -15,7 +15,7 @@ import Footer from './../components/Footer';
 function App() {
 
   return (
-    <>
+    <section>
       <Header />
       <Parallax />
       <Payment />
@@ -28,7 +28,7 @@ function App() {
       <JoinBox/>
       <Support/>
       <Footer/>
-    </>
+    </section>
   )
 }
 
