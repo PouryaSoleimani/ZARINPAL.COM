@@ -265,7 +265,8 @@ body {
 	margin: 70px 30px;
 	border-radius: 20px;
 	padding: 10px 0px 0px 25px;
-	display: flex;
+	display: flex; 
+  margin: 0 auto;
 	align-items: center;
 	justify-content: center;
 	@media (max-width: $medium) {
