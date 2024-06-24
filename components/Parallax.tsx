@@ -24,11 +24,11 @@ const Parallax = () => {
             <a className="parallax__signup__bottom">ثبت نام</a>
             <a className="parallax__login__bottom">ورود</a>
           </div>
-          <img src="/public/home.svg" className="parallax__img" />
+          <img src="/src/assets/home.svg" className="parallax__img" />
         </div>
         <div className="parallax-arrow">
-          <img src="/public/Parallax__bottom--arrow.svg" alt="" className="parallax-arrow__bg" />
-          <img src="/public/chevron__down.svg" alt="" className="parallax-arrow__chevron" />
+          <img src="/src/assets/Parallax__bottom--arrow.svg" alt="" className="parallax-arrow__bg" />
+          <img src="/src/assets/chevron__down.svg" alt="" className="parallax-arrow__chevron" />
         </div>
       </div>
     </div>

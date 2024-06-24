@@ -4,7 +4,7 @@ const Options = () => {
             <div className="options-container">
                 <div className="option--item item3">
                     <span className="option--item__header">
-                        <img className="option--item__img" src="/public/Verified--grid__img.svg" />
+                        <img className="option--item__img" src="/src/assets/Verified--grid__img.svg" />
                         ضمانتِ
                         پرداخت
                     </span>
@@ -13,7 +13,7 @@ const Options = () => {
                 </div>
                 <div className="option--item item1">
                     <h3 className="option--item__header">
-                        <img className="option--item__img" src="/public/Support--grid__img.svg" />
+                        <img className="option--item__img" src="/src/assets/Support--grid__img.svg" />
                         پشتیبانی ۲۴/۷
                     </h3>
                     <p className="option--header__text">هفت روزِ هفته، با پشتیبانی ۲۴ ساعته‌ی زرین‌پال، آماده‌ی پاسخ‌گویی و
@@ -22,7 +22,7 @@ const Options = () => {
                 </div>
                 <div className="option--item item4">
                     <h3 className="option--item__header">
-                        <img className="option--item__img" src="/public/Splite--grid__img.svg" />
+                        <img className="option--item__img" src="/src/assets/Splite--grid__img.svg" />
                         مسیردهی هوشمند
                     </h3>
                     <p className="option--header__text">استانداردهای متفاوت زرین‌پال در بازه‌های زمانی مختلف، باعث می‌شود
@@ -32,7 +32,7 @@ const Options = () => {
                 </div>
                 <div className="option--item item2">
                     <h3 className="option--item__header">
-                        <img className="option--item__img" src="/public/Support--grid__img.svg" />
+                        <img className="option--item__img" src="/src/assets/Support--grid__img.svg" />
                         امنیتِ پرداخت
                     </h3>
                     <p className="option--header__text">درگاه امن زرین‌پال، ضمانتی برای امنیت اطلاعات بانکی افراد، هنگام

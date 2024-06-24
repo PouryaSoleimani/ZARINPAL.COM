@@ -9,7 +9,7 @@ const Support = () => {
                 </pre>
                 <a className="support--link" >
                     درخواست پشتیبانی
-                    <img className="support--link__img" src="/public/arrow-left.svg" />
+                    <img className="support--link__img" src="/src/assets/arrow-left.svg" />
                 </a>
             </div>
         </div>

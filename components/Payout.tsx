@@ -4,7 +4,7 @@ const Payout = () => {
     return (
         <div>
             <div className="payout--container">
-                <img className="payout--img" src="/public/Payout--img.svg" />
+                <img className="payout--img" src="/src/assets/Payout--img.svg" />
                     <div className="payout--content">
                         <div className="payout--content__header1">تسهیم</div>
                         <div className="payout--content__header2">درگاه پرداخت اشتراکی</div>
@@ -18,7 +18,7 @@ const Payout = () => {
                             <button className="payout--content__btn">درخواست فعال سازی تسهیم</button>
 
                             <a href="#" className="payout--content__link">بیش تر بدانید
-                                <img src="/public/arrow-left.svg" className="payout--content__arrow"/>
+                                <img src="/src/assets/arrow-left.svg" className="payout--content__arrow"/>
                             </a>
                         </div>
                     </div>

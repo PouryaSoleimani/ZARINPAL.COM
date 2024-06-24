@@ -2,7 +2,7 @@ const Payment = () => {
   return (
     <>
       <div className="payment">
-        <img src="/public/Payment--img.svg" className="payment--img" />
+        <img src="/src/assets/Payment--img.svg" className="payment--img" />
         <div className="payment--content">
           <h4 className="payment--content__head1">درگاه پرداخت اینترنتی</h4>
           <h3 className="payment--content__head2">مهندسی شده برای رشد و فروش بیش تر</h3>
@@ -13,7 +13,7 @@ const Payment = () => {
           <div className="payment-content__btn__wrapper">
             <button className="payment--content__btn">ساخت درگاه پرداخت</button>
             <button className="payment--content__link">بیشتر بدانید
-              <img src="/public/arrow-left.svg" className="payment--content__link__arrow" />
+              <img src="/src/assets/arrow-left.svg" className="payment--content__link__arrow" />
             </button>
           </div>
         </div>
