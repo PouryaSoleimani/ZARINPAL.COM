@@ -3,7 +3,7 @@ const ZarinPlus = () => {
     return (
         <div>
             <div className="zarinplus--container">
-                <img className="zarinplus--img" src="/src/assets/Zarinplus--img.svg" />
+                <img className="zarinplus--img" src="./src/assets/Zarinplus--img.svg" />
                 <div className="zarinplus--content">
                     <div className="zarinplus--content__header1">زرین‌پلاس</div>
                     <div className="zarinplus--content__header2">ابزار هوشمند سوددهی</div>
@@ -19,7 +19,7 @@ const ZarinPlus = () => {
                                 پیوستن به زرین پلاس
                             </button>
                             <a href="#" className="zarinplus--content__link">بیش تر بدانید
-                                <img className="zarinplus--content__arrow" src="/src/assets/arrow-left.svg" />
+                                <img className="zarinplus--content__arrow" src="./src/assets/arrow-left.svg" />
                             </a>
                         </div>
                     </div>

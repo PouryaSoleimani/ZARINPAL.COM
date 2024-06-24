@@ -43,14 +43,14 @@ const Footer = () => {
                 <div className="footer--social">
                     <h4 className="footer--social__header">زرین‌پال در شبکه‌های اجتماعی:</h4>
                     <div className="footer--social__iconwrapper">
-                        <a className="footer--social__link"><img alt="instagram" className="footer--social__icon" src="/src/assets/instagram.svg" /></a>
-                        <a className="footer--social__link"><img alt="twitter" className="footer--social__icon" src="/src/assets/twitter.svg" /></a>
-                        <a className="footer--social__link"><img alt="telegram" className="footer--social__icon" src="/src/assets/telegram.svg" /></a>
-                        <a className="footer--social__link"><img alt="linkedin" className="footer--social__icon" src="/src/assets/linkedin.svg" /></a>
-                        <a className="footer--social__link"><img alt="aparat" className="footer--social__icon" src="/src/assets/aparat.svg" /></a>
+                        <a className="footer--social__link"><img alt="instagram" className="footer--social__icon" src="./src/assets/instagram.svg" /></a>
+                        <a className="footer--social__link"><img alt="twitter" className="footer--social__icon" src="./src/assets/twitter.svg" /></a>
+                        <a className="footer--social__link"><img alt="telegram" className="footer--social__icon" src="./src/assets/telegram.svg" /></a>
+                        <a className="footer--social__link"><img alt="linkedin" className="footer--social__icon" src="./src/assets/linkedin.svg" /></a>
+                        <a className="footer--social__link"><img alt="aparat" className="footer--social__icon" src="./src/assets/aparat.svg" /></a>
                     </div>
                     <br />
-                    <img className="footer--social__elogo" src="/src/assets/Enamad.png" />
+                    <img className="footer--social__elogo" src="./src/assets/Enamad.png" />
                 </div>
             </section>
         </div>
